@@ -1,4 +1,4 @@
-Furst gym library was installed by cloning the source code repository and then installing the library using the commands :
+First gym library was installed by cloning the source code repository and then installing the library using the commands :
 
 
 git clone https://github.com/openai/gym && cd gym
